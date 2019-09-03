@@ -15,11 +15,7 @@ end
 
 
 def find_max_value(array)
-  while true {
-    puts array.sort
-  end
-  }
-  return array.last 
+  return array.max
 end
 
 
