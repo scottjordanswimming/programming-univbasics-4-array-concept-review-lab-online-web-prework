@@ -22,7 +22,7 @@ end
 
 
 def find_min_value(array)
-  # Add your solution here
+  return array.min
 end
 
   scale = [2,3,4,5]
